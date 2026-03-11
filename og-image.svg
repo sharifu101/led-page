@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#083728"/>
+      <stop offset="100%" stop-color="#0f5d46"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="120" r="180" fill="rgba(216,142,43,0.24)"/>
+  <circle cx="190" cy="520" r="180" fill="rgba(255,255,255,0.08)"/>
+  <rect x="690" y="168" width="340" height="210" rx="22" fill="#f4f1e8"/>
+  <rect x="724" y="196" width="272" height="138" rx="14" fill="#d88e2b"/>
+  <text x="100" y="230" fill="#f4f1e8" font-size="66" font-family="Arial, sans-serif" font-weight="700">
+    Outdoor LED Billboard
+  </text>
+  <text x="100" y="315" fill="#f4f1e8" font-size="66" font-family="Arial, sans-serif" font-weight="700">
+    Solutions in Bangladesh
+  </text>
+  <text x="100" y="395" fill="#d8e7e0" font-size="30" font-family="Arial, sans-serif">
+    Use cases, buying tips, and comparison guidance
+  </text>
+</svg>
